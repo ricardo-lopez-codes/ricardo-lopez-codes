@@ -17,6 +17,7 @@
 ## 🌐 Socials
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
@@ -26,8 +27,17 @@
 </a>
 
 <a href="https://ricardo-lopez-codes.github.io/">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://img.icons8.com/fluency/48/domain.png" height="48"/>
 </a>
+
+<a href="https://leetcode.com/u/ricardo_lopez/">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="48"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rl69d0d6?from=edit">
+<img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/>
+</a>
+
 </p>
 ---
 
