@@ -17,24 +17,26 @@
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://ricardo-lopez-codes.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:rl6930@srmist.edu.in">
-    <img src="https://img.shields.io/badge/SRMIST_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://ricardo-lopez-codes.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<a href="mailto:rl6930@srmist.edu.in">
+<img src="https://img.shields.io/badge/SRMIST_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
 </p>
 
@@ -42,25 +44,9 @@
 
 # 🛠️ Tools & Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,git,github,vscode" />
 </p>
-
-### Embedded Platforms
-
-* ESP32
-* Raspberry Pi
-* Arduino
-* Sensor Integration
-* Wireless Communication
-
-### Engineering Software
-
-* KiCad
-* Fusion 360
-* MATLAB
-* Arduino IDE
-* Git & GitHub
 
 ---
 
