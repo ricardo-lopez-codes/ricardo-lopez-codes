@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./banner.gif" width="100%">
 </p>
 
+---
+
+# 👨‍💻 About Me
 
 # 💫 About Me
 
