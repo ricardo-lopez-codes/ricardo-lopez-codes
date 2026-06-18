@@ -1,10 +1,6 @@
-<div align="center">
-
-# Ricardo Lopez
-
-### AIoT Engineer
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=120&lines=RICARDO+LOPEZ;AIoT+Engineer" />
+</p>
 
 # 💫 About Me
 
