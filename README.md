@@ -1,7 +1,5 @@
 # 💫 About Me
 
-## 👨‍💻 About Me
-
 🎓 ECE Student @ SRMIST Ramapuram
 
 🚀 Embedded Systems & Aerospace Enthusiast
