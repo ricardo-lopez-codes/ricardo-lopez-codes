@@ -1,6 +1,10 @@
-<h1 align="center">Ricardo Lopez</h1>
+<div align="center">
 
-<h3 align="center">AIoT Engineer</h3>
+# Ricardo Lopez
+
+### AIoT Engineer
+
+</div>
 
 # 💫 About Me
 
