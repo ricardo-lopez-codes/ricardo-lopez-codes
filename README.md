@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>* 🎓 ECE Student @ SRMIST Ramapuram<br>* 🚀 Embedded Systems & Aerospace Enthusiast<br>* 🤖 Exploring AI-powered Hardware Solutions<br>* 🛰️ Interested in CanSat & Satellite Technologies<br>* 🏆 Techno-A-Thon 2025 Winner<br>
+## 👨‍💻 About Me<br><br> 🎓 ECE Student @ SRMIST Ramapuram<br> 🚀 Embedded Systems & Aerospace Enthusiast<br> 🤖 Exploring AI-powered Hardware Solutions<br> 🛰️ Interested in CanSat & Satellite Technologies<br>🏆 Techno-A-Thon 2025 Winner<br>
 
 
 ## 🌐 Socials:
