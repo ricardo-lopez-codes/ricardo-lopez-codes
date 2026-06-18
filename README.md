@@ -1,6 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=120&lines=RICARDO+LOPEZ;AIoT+Engineer" />
+  <a href="./assets/banner.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20My%20Banner%20Video-00BFFF?style=for-the-badge" />
+  </a>
 </p>
+
+---
 
 # 💫 About Me
 
