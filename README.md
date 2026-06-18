@@ -67,8 +67,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ricardo-lopez-codes/ricardo-lopez-codes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ricardo-lopez-codes/ricardo-lopez-codes/output/ocean.gif" />
 </p>
