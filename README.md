@@ -2,10 +2,6 @@
   <img src="./banner.gif" width="100%">
 </p>
 
----
-
-# 👨‍💻 About Me
-
 # 💫 About Me
 
 🎓 ECE Student @ SRMIST Ramapuram
