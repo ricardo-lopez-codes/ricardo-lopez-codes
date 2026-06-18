@@ -66,9 +66,9 @@
 🚀 **Smart India Hackathon (SIH)** — College Finalist
 
 ---
-
 # 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ricardo-lopez-codes/ricardo-lopez-codes/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ricardo-lopez-codes/ricardo-lopez-codes/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </p>
+
