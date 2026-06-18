@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&customColorList=24,12,30,20&text=RICARDO%20LOPEZ&fontColor=ffffff&fontSize=58&animation=twinkling&desc=AIoT%20Engineer&descAlignY=65" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=120&lines=RICARDO+LOPEZ;AIoT+Engineer" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:001f3f,100:00BFFF&text=&animation=fadeIn" />
 </p>
 ---
 
