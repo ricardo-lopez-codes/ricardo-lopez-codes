@@ -17,21 +17,18 @@
 ## 🌐 Socials
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ricardo-lopez-codes.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
 <a href="mailto:rl6930@srmist.edu.in">
-<img src="https://img.shields.io/badge/SRMIST_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
+<a href="https://ricardo-lopez-codes.github.io/">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
 </p>
-
 ---
 
 # 💻 Programming Languages
