@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:0d1117,30:111827,70:0f172a,100:001f3f&text=&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,40:001f3f,70:003566,100:00BFFF&text=&animation=twinkling" width="100%"/>
 </p>
 ---
 
